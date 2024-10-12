@@ -9,4 +9,4 @@
 - 학교 위치 - https://www.data.go.kr/data/15021148/standard.do
 - 병원 위치 - http://data.nsdi.go.kr/dataset/14765
 - 도로별 주행 속도 - https://www.its.go.kr/opendata/opendataList?service=traffic
-![image](https://github.com/user-attachments/assets/5bec00f7-b0c9-4005-9100-d8869e5a65ef)
+![image|500](https://github.com/user-attachments/assets/5bec00f7-b0c9-4005-9100-d8869e5a65ef)
