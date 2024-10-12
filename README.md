@@ -11,4 +11,4 @@
 - 도로별 주행 속도 - https://www.its.go.kr/opendata/opendataList?service=traffic
 
 
-![](highschool_map.html)
+![asdf](highschool_map.html)
